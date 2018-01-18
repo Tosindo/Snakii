@@ -1,0 +1,33 @@
+E:\Projects\Snakii\Snakii\bin\Debug\Snakii.exe.config
+E:\Projects\Snakii\Snakii\bin\Debug\Snakii.exe
+E:\Projects\Snakii\Snakii\bin\Debug\Snakii.pdb
+E:\Projects\Snakii\Snakii\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\Snakii\Snakii\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\Snakii\Snakii\obj\Debug\Snakii.csprojResolveAssemblyReference.cache
+E:\Projects\Snakii\Snakii\obj\Debug\Snakii.Properties.Resources.resources
+E:\Projects\Snakii\Snakii\obj\Debug\Snakii.csproj.GenerateResource.Cache
+E:\Projects\Snakii\Snakii\obj\Debug\Snakii.exe
+E:\Projects\Snakii\Snakii\obj\Debug\Snakii.pdb
+E:\Projects\Snakii\Snakii\obj\Debug\Snakii.MapEditor.resources
+E:\Projects\Snakii\Snakii\obj\Debug\Snakii.MainMenu.resources
+E:\Projects\Snakii\Snakii\obj\Debug\Snakii.MapChoose.resources
+E:\Projects\Snakii\Snakii\obj\Debug\Snakii.MapItem.resources
+E:\Projects\Snakii\Snakii\obj\Debug\Snakii.MapOptions.resources
+E:\Projects\Snakii\Snakii\obj\Debug\Snakii.Game.resources
+D:\Stuff on Portable PC\Projects\Projects\Snakii\Snakii\bin\Debug\Snakii.exe.config
+D:\Stuff on Portable PC\Projects\Projects\Snakii\Snakii\bin\Debug\Snakii.exe
+D:\Stuff on Portable PC\Projects\Projects\Snakii\Snakii\bin\Debug\Snakii.pdb
+D:\Stuff on Portable PC\Projects\Projects\Snakii\Snakii\bin\Debug\Newtonsoft.Json.dll
+D:\Stuff on Portable PC\Projects\Projects\Snakii\Snakii\bin\Debug\Newtonsoft.Json.xml
+D:\Stuff on Portable PC\Projects\Projects\Snakii\Snakii\obj\Debug\Snakii.csprojResolveAssemblyReference.cache
+D:\Stuff on Portable PC\Projects\Projects\Snakii\Snakii\obj\Debug\Snakii.Game.resources
+D:\Stuff on Portable PC\Projects\Projects\Snakii\Snakii\obj\Debug\Snakii.MainMenu.resources
+D:\Stuff on Portable PC\Projects\Projects\Snakii\Snakii\obj\Debug\Snakii.MapChoose.resources
+D:\Stuff on Portable PC\Projects\Projects\Snakii\Snakii\obj\Debug\Snakii.MapEditor.resources
+D:\Stuff on Portable PC\Projects\Projects\Snakii\Snakii\obj\Debug\Snakii.MapItem.resources
+D:\Stuff on Portable PC\Projects\Projects\Snakii\Snakii\obj\Debug\Snakii.MapOptions.resources
+D:\Stuff on Portable PC\Projects\Projects\Snakii\Snakii\obj\Debug\Snakii.Properties.Resources.resources
+D:\Stuff on Portable PC\Projects\Projects\Snakii\Snakii\obj\Debug\Snakii.csproj.GenerateResource.Cache
+D:\Stuff on Portable PC\Projects\Projects\Snakii\Snakii\obj\Debug\Snakii.csproj.CoreCompileInputs.cache
+D:\Stuff on Portable PC\Projects\Projects\Snakii\Snakii\obj\Debug\Snakii.exe
+D:\Stuff on Portable PC\Projects\Projects\Snakii\Snakii\obj\Debug\Snakii.pdb

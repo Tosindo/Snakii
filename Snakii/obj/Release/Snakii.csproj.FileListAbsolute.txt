@@ -1,0 +1,15 @@
+E:\Projects\Snakii\Snakii\bin\Release\Snakii.exe.config
+E:\Projects\Snakii\Snakii\bin\Release\Snakii.exe
+E:\Projects\Snakii\Snakii\bin\Release\Snakii.pdb
+E:\Projects\Snakii\Snakii\bin\Release\Newtonsoft.Json.dll
+E:\Projects\Snakii\Snakii\bin\Release\Newtonsoft.Json.xml
+E:\Projects\Snakii\Snakii\obj\Release\Snakii.Game.resources
+E:\Projects\Snakii\Snakii\obj\Release\Snakii.MainMenu.resources
+E:\Projects\Snakii\Snakii\obj\Release\Snakii.MapChoose.resources
+E:\Projects\Snakii\Snakii\obj\Release\Snakii.MapEditor.resources
+E:\Projects\Snakii\Snakii\obj\Release\Snakii.MapItem.resources
+E:\Projects\Snakii\Snakii\obj\Release\Snakii.MapOptions.resources
+E:\Projects\Snakii\Snakii\obj\Release\Snakii.Properties.Resources.resources
+E:\Projects\Snakii\Snakii\obj\Release\Snakii.csproj.GenerateResource.Cache
+E:\Projects\Snakii\Snakii\obj\Release\Snakii.exe
+E:\Projects\Snakii\Snakii\obj\Release\Snakii.pdb
